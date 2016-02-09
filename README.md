@@ -6,7 +6,7 @@ Android Survey
 A simple to use, survey library for collecting feedback from your users.
 
 
-![alt text](https://github.com/AndreiD/surveylib/raw/master/app/surveygif.gif "Android Survey Gif")
+![alt text](https://github.com/CrandellWS/surveylib/raw/master/app/surveygif.gif "Android Survey Gif")
 
 
 ### Instalation:
