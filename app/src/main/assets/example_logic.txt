@@ -39,14 +39,14 @@
 	}, {
 		"question_title": "How much you spend per coffee every day ?",
 		"description": "",
-		"required": false,
+		"required": true,
 		"random_choices": true,
 		"choices": [{
 			"1": "0",
 			"2": "2-5",
 			"3": "5+"
 		}],
-		"hasLogic": false,
+		"hasLogic": true,
 		"questionLogic": [{
 			"1": "lose Wheel",
 			"2": "4-7th place wheel",
